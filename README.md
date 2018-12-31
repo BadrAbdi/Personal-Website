@@ -11,3 +11,7 @@ Info needs to be added to pages: 1. Resume
                                  4. Blog Content
 Backend needs to be created so that content/software can be downloaded directly from page
 Create needed content
+
+#Index
+
+image
