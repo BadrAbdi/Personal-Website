@@ -13,5 +13,9 @@ Backend needs to be created so that content/software can be downloaded directly 
 Create needed content
 
 #Index
+![Screenshot](index.png)
 
-image
+
+#Projects
+![Screenshot](project1.png)
+![Screenshot](projects2.png)
