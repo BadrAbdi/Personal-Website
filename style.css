@@ -1,0 +1,25 @@
+#bckgrd{
+    background: url(pixel.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#jumbotxt{
+    color:white;
+}
+body {
+    padding-top: 75px;
+
+                             
+}
+
+.imgfix{
+    width: 18rem;
+    
+
+}
+
+
+.cards{
+    margin-bottom: 2.5rem;
+}
