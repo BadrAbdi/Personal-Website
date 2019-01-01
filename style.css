@@ -7,7 +7,7 @@
 #jumbotxt{
     color:white;
 }
-body {
+body{
     padding-top: 75px;
 
                              
@@ -18,8 +18,15 @@ body {
     
 
 }
+p{
+    margin-bottom: 0;
+    margin-top: 0;
+}
 
 
 .cards{
     margin-bottom: 2.5rem;
+}
+.resume{
+    padding: 2rem 4rem 2rem 4rem;
 }
